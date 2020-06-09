@@ -1,6 +1,6 @@
 # food_online
 
-A new Flutter project.
+Aplicativo de comida.
 
 ## Getting Started
 
